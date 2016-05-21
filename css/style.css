@@ -727,6 +727,16 @@ a {
   text-align: left;
   line-height: 30px;
 }
+#header .switch-part4 .myskills {
+  border: 1px solid #c1c1c1;
+  margin-bottom: 4px;
+}
+#header .switch-part4 .myskills .myskills_item {
+  display: inline-block;
+  width: 60px;
+  text-align: right;
+  margin-right: 4px;
+}
 .duoshuo {
   padding: 0 40px;
 }
